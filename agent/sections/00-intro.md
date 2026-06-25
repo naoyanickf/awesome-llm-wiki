@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="Awesome LLM Wiki" width="100%"></p>
+
 # Awesome LLM Wiki [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Stars](https://img.shields.io/github/stars/naoyanickf/awesome-llm-wiki?style=flat&color=ffd700)](https://github.com/naoyanickf/awesome-llm-wiki/stargazers)
