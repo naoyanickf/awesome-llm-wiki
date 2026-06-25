@@ -1,0 +1,53 @@
+{
+  "_comment": "Human-in-the-loop curation layer for the research agent. fetch.py auto-discovers repos; this file keeps quality high: drop off-lineage noise (exclude), fix categories/descriptions (overrides), and set the inclusion floor (min_stars). Editing this file is the main way contributors shape the list.",
+  "min_stars": 25,
+  "categories": [
+    {"id": "implementations", "title": "Implementations & apps", "blurb": "Standalone apps and web tools that compile your sources into a maintained wiki."},
+    {"id": "agent-skills-cli", "title": "Agent skills & CLI plugins", "blurb": "Drop-in skills/plugins that turn Claude Code, Codex, Cursor, or Copilot into a wiki maintainer."},
+    {"id": "obsidian-vault", "title": "Obsidian & vault-based", "blurb": "Implementations that live inside an Obsidian vault or a plain Markdown folder."},
+    {"id": "local-first", "title": "Local-first & offline", "blurb": "Runs against local models (Ollama et al.) so raw sources never leave your machine."},
+    {"id": "knowledge-graph", "title": "Knowledge graph & database variants", "blurb": "Push past flat Markdown into typed entities, graphs, and queryable databases."},
+    {"id": "capture-ingest", "title": "Capture & ingestion", "blurb": "Clippers and importers that feed raw sources into a wiki."}
+  ],
+  "exclude": [
+    "moonlarry/awesome-llm-paper-wiki",
+    "tjiahen/awesome-llm-wiki",
+    "Ray-234/Awesome-LLM-Wiki",
+    "gavischneider/awesome-llm-wiki",
+    "virtualstarsmith/Awesome-Andrej-Karpathy",
+    "thClaws/thClaws",
+    "stevesolun/ctx",
+    "Tencent/WeKnora",
+    "agents-flex/agents-flex"
+  ],
+  "overrides": {
+    "nashsu/llm_wiki": {
+      "category": "implementations",
+      "description": "The flagship desktop app. Knowledge graph (Louvain communities, Adamic-Adar), optional LanceDB vector search, Deep Research, human review of contradictions/duplicates, Chrome clipper, local MCP server."
+    },
+    "lucasastorian/llmwiki": {
+      "category": "agent-skills-cli",
+      "description": "Open-source implementation that connects your Claude account via MCP and has the agent write the wiki on a nightly routine. Deliberately small tool surface (search/read/create/edit/append/lint)."
+    },
+    "Astro-Han/karpathy-llm-wiki": {
+      "category": "agent-skills-cli",
+      "description": "Agent-Skills-compatible LLM wiki that drops into Claude Code, Cursor, and Codex."
+    },
+    "eugeniughelbur/obsidian-second-brain": {
+      "category": "obsidian-vault",
+      "description": "Evolution of the pattern from append-only to rewrite: existing pages are updated in place, contradictions reconcile automatically — a vault that rewrites itself."
+    },
+    "kytmanov/obsidian-llm-wiki-local": {
+      "category": "local-first",
+      "description": "Karpathy's LLM Wiki, 100% local with Ollama. Drop Markdown notes, the agent extracts and interlinks."
+    },
+    "dimknaf/braindb": {
+      "category": "knowledge-graph",
+      "description": "An LLM Wiki upgraded into a real database: typed entities and graph relations instead of plain Markdown."
+    },
+    "SyncNos/SyncNos-Webclipper": {
+      "category": "capture-ingest",
+      "description": "Web clipper that saves AI chats, web articles, and video transcripts straight into an LLM-wiki-style vault."
+    }
+  }
+}

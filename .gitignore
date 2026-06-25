@@ -1,0 +1,8 @@
+# Internal launch/strategy notes — never publish to the public repo
+*.internal.md
+.internal/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
