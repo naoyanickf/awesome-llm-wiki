@@ -50,8 +50,8 @@ Standalone apps and web tools that compile your sources into a maintained wiki.
 | Project | Stars | Lang | Updated | What it is |
 | --- | --- | --- | --- | --- |
 | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | 12.8k | TypeScript | 2026-06-24 | The flagship desktop app. Knowledge graph (Louvain communities, Adamic-Adar), optional LanceDB vector search, Deep Research, human review… |
-| [cclank/Hermes-Wiki](https://github.com/cclank/Hermes-Wiki) | 571 | — | 2026-06-21 | Hermes agent + LLM Wiki + 源代码 完成 Hermes agent  wiki |
-| [gatelynch/llm-knowledge-base](https://github.com/gatelynch/llm-knowledge-base) | 292 | Python | 2026-04-06 | 參考自Andrej Kapathy的llm-wiki概念，把原始素材、LLM 編譯後的知識、   探索中的思考，以及最終作品明確分層管理   的個人知識庫系統。 |
+| [cclank/Hermes-Wiki](https://github.com/cclank/Hermes-Wiki) | 571 | — | 2026-06-21 | An LLM Wiki built on top of the Hermes agent, with full source included. |
+| [gatelynch/llm-knowledge-base](https://github.com/gatelynch/llm-knowledge-base) | 292 | Python | 2026-04-06 | A personal KB that explicitly layers raw material, LLM-compiled knowledge, in-progress thinking, and final outputs — based on Karpathy's… |
 | [Ansub/wiki-os](https://github.com/Ansub/wiki-os) | 243 | TypeScript | 2026-04-17 | UI Layer for Karpathy's LLM Wiki |
 | [tonbistudio/llm-wiki](https://github.com/tonbistudio/llm-wiki) | 205 | — | 2026-06-19 | Open-source template for building LLM-powered knowledge bases following Karpathy's LLM Wiki pattern |
 | [balukosuri/llm-wiki-karpathy](https://github.com/balukosuri/llm-wiki-karpathy) | 181 | — | 2026-04-07 | — |
@@ -59,11 +59,11 @@ Standalone apps and web tools that compile your sources into a maintained wiki.
 | [cablate/llm-atomic-wiki](https://github.com/cablate/llm-atomic-wiki) | 139 | Shell | 2026-04-20 | An extension of Karpathy's LLM Wiki pattern: atom layer, topic-branches, two-layer Lint. Distilled from running the pattern end-to-end. |
 | [kothari-nikunj/llm-wiki](https://github.com/kothari-nikunj/llm-wiki) | 138 | TypeScript | 2026-04-08 | Personal Wiki |
 | [Ss1024sS/LLM-wiki](https://github.com/Ss1024sS/LLM-wiki) | 114 | Python | 2026-04-19 | based on karpathy https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f |
-| [liangdabiao/llm-wiki](https://github.com/liangdabiao/llm-wiki) | 107 | TypeScript | 2026-04-29 | 基于 [Karpathy llm-wiki]方法论，利用 AI 持续构建和维护你的个人知识库。支持从多种素材源（网页、推特、公众号、小红书、知乎、YouTube、PDF、本地文件）自动整理为结构化的 wiki，并通过 Quartz 发布为静态wiki知识库网站。 并通过 c… |
+| [liangdabiao/llm-wiki](https://github.com/liangdabiao/llm-wiki) | 107 | TypeScript | 2026-04-29 | Continuously build and maintain a personal KB with AI; ingests web, Twitter, WeChat, Zhihu, YouTube, PDF and local files into a structure… |
 | [abubakarsiddik31/axiom-wiki](https://github.com/abubakarsiddik31/axiom-wiki) | 102 | TypeScript | 2026-05-16 | Inspired by Andrej Karpathy's llm-wiki — the idea that LLMs should maintain a persistent, compounding wiki rather than re-derive answers… |
 | [eleven-net-cn/llm-wiki-starter](https://github.com/eleven-net-cn/llm-wiki-starter) | 86 | Shell | 2026-05-07 | Create an LLM Wiki knowledge base in one command — based on Andrej Karpathy's LLM Wiki pattern. |
 | [owenliang/llm-wiki](https://github.com/owenliang/llm-wiki) | 65 | — | 2026-04-06 | The implementation of karpathy/llm-wiki.md |
-| [Lambenthan/empiricalwiki](https://github.com/Lambenthan/empiricalwiki) | 61 | Python | 2026-06-13 | 经管实证研究的 AI 知识库 — 从文献阅读到 Stata 执行，一条流水线串到底。基于 Karpathy 的 LLM-Wiki 理念，按实证研究 10 类实体（变量 / 数据集 / 模型 / 机制 / 假设 / 识别策略 / 稳健性 / 异质性 / 表格 / 论文）定制 |
+| [Lambenthan/empiricalwiki](https://github.com/Lambenthan/empiricalwiki) | 61 | Python | 2026-06-13 | An AI knowledge base for empirical economics research — from literature reading to Stata execution — using Karpathy's LLM Wiki idea with… |
 | [tashisleepy/knowledge-engine](https://github.com/tashisleepy/knowledge-engine) | 61 | HTML | 2026-04-16 | The bridge between human-readable wikis and machine-speed memory. Built on Karpathys LLM Wiki pattern + Memvid. |
 | [danvega/karpathy-wiki](https://github.com/danvega/karpathy-wiki) | 48 | Java | 2026-04-14 | — |
 
@@ -73,8 +73,8 @@ Drop-in skills/plugins that turn Claude Code, Codex, Cursor, or Copilot into a w
 
 | Project | Stars | Lang | Updated | What it is |
 | --- | --- | --- | --- | --- |
-| [sdyckjq-lab/llm-wiki-skill](https://github.com/sdyckjq-lab/llm-wiki-skill) | 2.0k | TypeScript | 2026-06-25 | 基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！ |
-| [skyllwt/AutoSci](https://github.com/skyllwt/AutoSci) | 1.4k | Python | 2026-06-20 | Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code |
+| [sdyckjq-lab/llm-wiki-skill](https://github.com/sdyckjq-lab/llm-wiki-skill) | 2.0k | TypeScript | 2026-06-25 | A multi-platform personal-knowledge-base skill built on Karpathy's LLM Wiki methodology. |
+| [skyllwt/AutoSci](https://github.com/skyllwt/AutoSci) | 1.4k | Python | 2026-06-25 | Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code |
 | [Astro-Han/karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) | 1.2k | — | 2026-04-13 | Agent-Skills-compatible LLM wiki that drops into Claude Code, Cursor, and Codex. |
 | [lucasastorian/llmwiki](https://github.com/lucasastorian/llmwiki) | 1.2k | Python | 2026-06-23 | Open-source implementation that connects your Claude account via MCP and has the agent write the wiki on a nightly routine. Deliberately… |
 | [nvk/llm-wiki](https://github.com/nvk/llm-wiki) | 734 | Python | 2026-06-14 | LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source ingestion, wiki compila… |
@@ -83,12 +83,12 @@ Drop-in skills/plugins that turn Claude Code, Codex, Cursor, or Copilot into a w
 | [Beever-AI/beever-atlas](https://github.com/Beever-AI/beever-atlas) | 386 | Python | 2026-06-22 | Your First LLM-Wiki Conversation Knowledge Base |
 | [ussumant/llm-wiki-compiler](https://github.com/ussumant/llm-wiki-compiler) | 284 | HTML | 2026-05-05 | Claude Code plugin that compiles markdown knowledge files into a topic-based wiki. Implements Karpathy's LLM Knowledge Base pattern. |
 | [Lyra-stellAI/BYO-LLM-WIKI](https://github.com/Lyra-stellAI/BYO-LLM-WIKI) | 237 | Python | 2026-06-25 | Build your own LLM-native WIKI (knowledge library). Search, extract, summarize, Q&A with contextual RAG, layered knowledge graph, and rei… |
-| [luotwo/llm-wiki](https://github.com/luotwo/llm-wiki) | 176 | — | 2026-04-05 | LLM Wiki - 用 LLM 构建持续积累的个人知识库，含 Claude Code Skill 和实战经验 |
+| [luotwo/llm-wiki](https://github.com/luotwo/llm-wiki) | 176 | — | 2026-04-05 | Build a continuously-accumulating personal knowledge base with an LLM; ships a Claude Code Skill. |
 | [kfchou/wiki-skills](https://github.com/kfchou/wiki-skills) | 157 | — | 2026-05-10 | LLM-maintained personal wiki skills for Claude Code — implements Karpathy's LLM Wiki pattern |
-| [selmakcby/knowledge-pipeline](https://github.com/selmakcby/knowledge-pipeline) | 129 | HTML | 2026-04-13 | Terminal-vibe sunum + LLM-Wiki skill'i. Ham sohbetleri, şemayla disipline edilen büyüyen bir wiki'ye dönüştürme deseni. |
+| [selmakcby/knowledge-pipeline](https://github.com/selmakcby/knowledge-pipeline) | 129 | HTML | 2026-04-13 | A terminal-style pipeline + LLM-Wiki skill that turns raw chats into a structured knowledge base. |
 | [ctxr-dev/llm-wiki-memory](https://github.com/ctxr-dev/llm-wiki-memory) | 101 | JavaScript | 2026-06-14 | Local, git-versioned memory for AI coding agents. No RAG, no Docker, no external service. Capture, compile, recall over a local LLM wiki… |
 | [toolboxmd/karpathy-wiki](https://github.com/toolboxmd/karpathy-wiki) | 95 | Shell | 2026-05-06 | Karpathy Wiki - Claude Code skills for building persistent, compounding knowledge bases. Based on Andrej Karpathy's LLM Wiki pattern. |
-| [SherwinQ/karpathy-wiki](https://github.com/SherwinQ/karpathy-wiki) | 81 | Python | 2026-04-28 | 基于 [Andrej Karpathy]提出的 [LLM Wiki 模式]构建的 Agent Skill，通过四阶段流水线将碎片化信息转化为结构化、可检索、持续增长的个人知识库。 |
+| [SherwinQ/karpathy-wiki](https://github.com/SherwinQ/karpathy-wiki) | 81 | Python | 2026-04-28 | An Agent Skill for building a knowledge base based on Karpathy's LLM Wiki pattern. |
 | [NulightJens/ai-second-brain-skills](https://github.com/NulightJens/ai-second-brain-skills) | 77 | — | 2026-04-12 | Two Claude Code skills for building a Karpathy-style LLM wiki — a compounding AI second brain. Install: git clone https://github.com/Nuli… |
 | [ndjordjevic/pin-llm-wiki](https://github.com/ndjordjevic/pin-llm-wiki) | 75 | Python | 2026-06-12 | Skill for Claude, Cursor & Copilot that automates the Karpathy LLM Wiki workflow: ingest web, GitHub, and YouTube URLs into a well-struct… |
 | [MarcoPorcellato/matryca-plumber](https://github.com/MarcoPorcellato/matryca-plumber) | 72 | Python | 2026-06-24 | Local-first AI daemon for Logseq OG: background semantic indexing, link hygiene, and agent-ready CLI/MCP — edits Markdown on disk (no clo… |
@@ -118,17 +118,17 @@ Implementations that live inside an Obsidian vault or a plain Markdown folder.
 | [kiwifs/kiwifs](https://github.com/kiwifs/kiwifs) | 656 | Go | 2026-06-23 | Markdown filesystem for agents and teams. |
 | [jason-effi-lab/karpathy-llm-wiki-vault](https://github.com/jason-effi-lab/karpathy-llm-wiki-vault) | 617 | — | 2026-04-13 | — |
 | [swarmclawai/swarmvault](https://github.com/swarmclawai/swarmvault) | 586 | TypeScript | 2026-06-12 | The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pat… |
-| [iBlinkQ/llm-wiki-obsidian-blink](https://github.com/iBlinkQ/llm-wiki-obsidian-blink) | 509 | — | 2026-04-13 | 一个基于 Andrej Karpathy 的 LLM Wiki 模式 实现的 Obsidian 知识库，利用 LLM 维护可复利的个人知识层。 |
+| [iBlinkQ/llm-wiki-obsidian-blink](https://github.com/iBlinkQ/llm-wiki-obsidian-blink) | 509 | — | 2026-04-13 | An Obsidian implementation of Andrej Karpathy's LLM Wiki pattern. |
 | [NicholasSpisak/second-brain](https://github.com/NicholasSpisak/second-brain) | 415 | Shell | 2026-04-07 | LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern. |
 | [Pratiyush/llm-wiki](https://github.com/Pratiyush/llm-wiki) | 318 | Python | 2026-06-18 | LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern — implemented… |
 | [shannhk/llm-wikid](https://github.com/shannhk/llm-wikid) | 282 | Shell | 2026-04-21 | Karpathy-style LLM knowledge base for Obsidian. Clone, run Claude Code, start building your second brain. |
-| [mduongvandinh/llm-wiki](https://github.com/mduongvandinh/llm-wiki) | 212 | HTML | 2026-04-16 | Hệ thống knowledge base cá nhân hoàn toàn tự động, vận hành bởi LLM. Dựa trên pattern LLM Wiki của Andrej Karpathy. |
+| [mduongvandinh/llm-wiki](https://github.com/mduongvandinh/llm-wiki) | 212 | HTML | 2026-04-16 | A fully automated personal knowledge-base system following the LLM Wiki pattern. |
 | [IssacW228/student-llm-wiki](https://github.com/IssacW228/student-llm-wiki) | 204 | — | 2026-06-16 | 📚 Student LLM Wiki — AI-compiled knowledge base for university students. Drop course slides, get a persistent interlinked wiki. Feynman r… |
 | [pssah4/vault-operator](https://github.com/pssah4/vault-operator) | 192 | TypeScript | 2026-06-24 | Real AI agent for your vault. Coworker, Copilot & thinking partner, that maintains your memory & knowledge, adapts to your workflows, use… |
 | [kytmanov/synto](https://github.com/kytmanov/synto) | 162 | Python | 2026-06-21 | More than just Karpathy’s LLM Wiki, 100% local with Ollama. Drop Markdown notes → AI extracts concepts → your Obsidian wiki auto-links an… |
 | [zosmaai/pi-llm-wiki](https://github.com/zosmaai/pi-llm-wiki) | 162 | TypeScript | 2026-06-23 | Self-maintaining, Obsidian-compatible knowledge base for pi — turn raw sources into an interlinked wiki that compounds over time. Follows… |
-| [green-dalii/obsidian-llm-wiki](https://github.com/green-dalii/obsidian-llm-wiki) | 145 | TypeScript | 2026-06-24 | Karpathy's LLM Wiki implementation - multi-page knowledge generation with entity/concept pages and conversational query. |
-| [helloianneo/obsidian-ai-second-brain](https://github.com/helloianneo/obsidian-ai-second-brain) | 128 | — | 2026-04-13 | Obsidian + Claude AI 个人知识库完整搭建指南 \| 基于 Karpathy LLM Wiki 方法论 \| 4 阶段 12 步 \| 不用写代码 |
+| [green-dalii/obsidian-llm-wiki](https://github.com/green-dalii/obsidian-llm-wiki) | 146 | TypeScript | 2026-06-24 | Karpathy's LLM Wiki implementation - multi-page knowledge generation with entity/concept pages and conversational query. |
+| [helloianneo/obsidian-ai-second-brain](https://github.com/helloianneo/obsidian-ai-second-brain) | 128 | — | 2026-04-13 | A complete 4-phase, 12-step guide to building a personal KB with Obsidian + Claude, based on the LLM Wiki methodology. |
 | [songzhuozhu/obsidian-llm-wiki](https://github.com/songzhuozhu/obsidian-llm-wiki) | 114 | — | 2026-04-19 | Turn your LLM into a wiki maintainer. Inspired by Karpathy's LLM Wiki. Built for Obsidian, Claude Code & Codex. \| 让   LLM 成为你的 wiki 维护者。… |
 | [MehmetGoekce/llm-wiki](https://github.com/MehmetGoekce/llm-wiki) | 112 | Shell | 2026-06-08 | Build Karpathy's LLM Wiki with Claude Code. L1/L2 cache architecture. Logseq + Obsidian support. |
 | [AyanbekDos/memoriki](https://github.com/AyanbekDos/memoriki) | 110 | — | 2026-04-14 | Memoriki - LLM Wiki + MemPalace. Personal knowledge base with real memory. |

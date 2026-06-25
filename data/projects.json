@@ -16,7 +16,7 @@
       "full_name": "AgriciDaniel/claude-obsidian",
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-      "stars": 7758,
+      "stars": 7759,
       "forks": 892,
       "language": "Python",
       "pushed_at": "2026-05-28",
@@ -36,8 +36,8 @@
       "full_name": "Ar9av/obsidian-wiki",
       "url": "https://github.com/Ar9av/obsidian-wiki",
       "description": "Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy's LLM Wiki pattern",
-      "stars": 2442,
-      "forks": 240,
+      "stars": 2443,
+      "forks": 241,
       "language": "Python",
       "pushed_at": "2026-06-23",
       "category": "obsidian-vault"
@@ -45,7 +45,7 @@
     {
       "full_name": "sdyckjq-lab/llm-wiki-skill",
       "url": "https://github.com/sdyckjq-lab/llm-wiki-skill",
-      "description": "基于 Karpathy llm-wiki 方法论的个人知识库构建 Skill，支持多平台！",
+      "description": "A multi-platform personal-knowledge-base skill built on Karpathy's LLM Wiki methodology.",
       "stars": 1976,
       "forks": 252,
       "language": "TypeScript",
@@ -69,7 +69,7 @@
       "stars": 1433,
       "forks": 189,
       "language": "Python",
-      "pushed_at": "2026-06-20",
+      "pushed_at": "2026-06-25",
       "category": "agent-skills-cli"
     },
     {
@@ -175,7 +175,7 @@
     {
       "full_name": "cclank/Hermes-Wiki",
       "url": "https://github.com/cclank/Hermes-Wiki",
-      "description": "Hermes agent + LLM Wiki + 源代码 完成 Hermes agent  wiki",
+      "description": "An LLM Wiki built on top of the Hermes agent, with full source included.",
       "stars": 571,
       "forks": 67,
       "language": null,
@@ -185,7 +185,7 @@
     {
       "full_name": "iBlinkQ/llm-wiki-obsidian-blink",
       "url": "https://github.com/iBlinkQ/llm-wiki-obsidian-blink",
-      "description": "一个基于 Andrej Karpathy 的 LLM Wiki 模式 实现的 Obsidian 知识库，利用 LLM 维护可复利的个人知识层。",
+      "description": "An Obsidian implementation of Andrej Karpathy's LLM Wiki pattern.",
       "stars": 509,
       "forks": 90,
       "language": null,
@@ -225,7 +225,7 @@
     {
       "full_name": "gatelynch/llm-knowledge-base",
       "url": "https://github.com/gatelynch/llm-knowledge-base",
-      "description": "參考自Andrej Kapathy的llm-wiki概念，把原始素材、LLM 編譯後的知識、   探索中的思考，以及最終作品明確分層管理   的個人知識庫系統。",
+      "description": "A personal KB that explicitly layers raw material, LLM-compiled knowledge, in-progress thinking, and final outputs — based on Karpathy's LLM Wiki.",
       "stars": 292,
       "forks": 82,
       "language": "Python",
@@ -275,7 +275,7 @@
     {
       "full_name": "mduongvandinh/llm-wiki",
       "url": "https://github.com/mduongvandinh/llm-wiki",
-      "description": "Hệ thống knowledge base cá nhân hoàn toàn tự động, vận hành bởi LLM. Dựa trên pattern LLM Wiki của Andrej Karpathy.",
+      "description": "A fully automated personal knowledge-base system following the LLM Wiki pattern.",
       "stars": 212,
       "forks": 93,
       "language": "HTML",
@@ -335,7 +335,7 @@
     {
       "full_name": "luotwo/llm-wiki",
       "url": "https://github.com/luotwo/llm-wiki",
-      "description": "LLM Wiki - 用 LLM 构建持续积累的个人知识库，含 Claude Code Skill 和实战经验",
+      "description": "Build a continuously-accumulating personal knowledge base with an LLM; ships a Claude Code Skill.",
       "stars": 176,
       "forks": 35,
       "language": null,
@@ -386,7 +386,7 @@
       "full_name": "green-dalii/obsidian-llm-wiki",
       "url": "https://github.com/green-dalii/obsidian-llm-wiki",
       "description": "Karpathy's LLM Wiki implementation - multi-page knowledge generation with entity/concept pages and conversational query.",
-      "stars": 145,
+      "stars": 146,
       "forks": 15,
       "language": "TypeScript",
       "pushed_at": "2026-06-24",
@@ -415,7 +415,7 @@
     {
       "full_name": "selmakcby/knowledge-pipeline",
       "url": "https://github.com/selmakcby/knowledge-pipeline",
-      "description": "Terminal-vibe sunum + LLM-Wiki skill'i. Ham sohbetleri, şemayla disipline edilen büyüyen bir wiki'ye dönüştürme deseni.",
+      "description": "A terminal-style pipeline + LLM-Wiki skill that turns raw chats into a structured knowledge base.",
       "stars": 129,
       "forks": 14,
       "language": "HTML",
@@ -425,7 +425,7 @@
     {
       "full_name": "helloianneo/obsidian-ai-second-brain",
       "url": "https://github.com/helloianneo/obsidian-ai-second-brain",
-      "description": "Obsidian + Claude AI 个人知识库完整搭建指南 | 基于 Karpathy LLM Wiki 方法论 | 4 阶段 12 步 | 不用写代码",
+      "description": "A complete 4-phase, 12-step guide to building a personal KB with Obsidian + Claude, based on the LLM Wiki methodology.",
       "stars": 128,
       "forks": 14,
       "language": null,
@@ -475,7 +475,7 @@
     {
       "full_name": "liangdabiao/llm-wiki",
       "url": "https://github.com/liangdabiao/llm-wiki",
-      "description": "基于 [Karpathy llm-wiki]方法论，利用 AI 持续构建和维护你的个人知识库。支持从多种素材源（网页、推特、公众号、小红书、知乎、YouTube、PDF、本地文件）自动整理为结构化的 wiki，并通过 Quartz 发布为静态wiki知识库网站。 并通过 claude_agent_sdk 调用 claude agent 使用 llm-wiki ,提供api接口对外访问服务 。",
+      "description": "Continuously build and maintain a personal KB with AI; ingests web, Twitter, WeChat, Zhihu, YouTube, PDF and local files into a structured wiki, published as a static site via Quartz.",
       "stars": 107,
       "forks": 15,
       "language": "TypeScript",
@@ -545,7 +545,7 @@
     {
       "full_name": "SherwinQ/karpathy-wiki",
       "url": "https://github.com/SherwinQ/karpathy-wiki",
-      "description": "基于 [Andrej Karpathy]提出的 [LLM Wiki 模式]构建的 Agent Skill，通过四阶段流水线将碎片化信息转化为结构化、可检索、持续增长的个人知识库。",
+      "description": "An Agent Skill for building a knowledge base based on Karpathy's LLM Wiki pattern.",
       "stars": 81,
       "forks": 13,
       "language": "Python",
@@ -665,7 +665,7 @@
     {
       "full_name": "Lambenthan/empiricalwiki",
       "url": "https://github.com/Lambenthan/empiricalwiki",
-      "description": "经管实证研究的 AI 知识库 — 从文献阅读到 Stata 执行，一条流水线串到底。基于 Karpathy 的 LLM-Wiki 理念，按实证研究 10 类实体（变量 / 数据集 / 模型 / 机制 / 假设 / 识别策略 / 稳健性 / 异质性 / 表格 / 论文）定制",
+      "description": "An AI knowledge base for empirical economics research — from literature reading to Stata execution — using Karpathy's LLM Wiki idea with 10 domain-specific entity types.",
       "stars": 61,
       "forks": 14,
       "language": "Python",

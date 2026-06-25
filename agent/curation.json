@@ -48,6 +48,40 @@
     "SyncNos/SyncNos-Webclipper": {
       "category": "capture-ingest",
       "description": "Web clipper that saves AI chats, web articles, and video transcripts straight into an LLM-wiki-style vault."
+    },
+    "sdyckjq-lab/llm-wiki-skill": {
+      "description": "A multi-platform personal-knowledge-base skill built on Karpathy's LLM Wiki methodology."
+    },
+    "cclank/Hermes-Wiki": {
+      "description": "An LLM Wiki built on top of the Hermes agent, with full source included."
+    },
+    "iBlinkQ/llm-wiki-obsidian-blink": {
+      "description": "An Obsidian implementation of Andrej Karpathy's LLM Wiki pattern."
+    },
+    "gatelynch/llm-knowledge-base": {
+      "description": "A personal KB that explicitly layers raw material, LLM-compiled knowledge, in-progress thinking, and final outputs — based on Karpathy's LLM Wiki."
+    },
+    "mduongvandinh/llm-wiki": {
+      "description": "A fully automated personal knowledge-base system following the LLM Wiki pattern."
+    },
+    "luotwo/llm-wiki": {
+      "description": "Build a continuously-accumulating personal knowledge base with an LLM; ships a Claude Code Skill."
+    },
+    "selmakcby/knowledge-pipeline": {
+      "description": "A terminal-style pipeline + LLM-Wiki skill that turns raw chats into a structured knowledge base."
+    },
+    "liangdabiao/llm-wiki": {
+      "description": "Continuously build and maintain a personal KB with AI; ingests web, Twitter, WeChat, Zhihu, YouTube, PDF and local files into a structured wiki, published as a static site via Quartz."
+    },
+    "helloianneo/obsidian-ai-second-brain": {
+      "category": "obsidian-vault",
+      "description": "A complete 4-phase, 12-step guide to building a personal KB with Obsidian + Claude, based on the LLM Wiki methodology."
+    },
+    "SherwinQ/karpathy-wiki": {
+      "description": "An Agent Skill for building a knowledge base based on Karpathy's LLM Wiki pattern."
+    },
+    "Lambenthan/empiricalwiki": {
+      "description": "An AI knowledge base for empirical economics research — from literature reading to Stata execution — using Karpathy's LLM Wiki idea with 10 domain-specific entity types."
     }
   }
 }
