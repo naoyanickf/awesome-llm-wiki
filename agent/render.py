@@ -60,7 +60,8 @@ def main():
             "- [Critiques & open problems](#critiques--open-problems)",
             "- [Research](#research)",
             "- [How this list stays current](#how-this-list-stays-current)",
-            "- [Contributing](#contributing)"]
+            "- [Contributing](#contributing)",
+            "- [Maintainer](#maintainer)"]
     out.append("\n".join(toc))
     out.append("")
     out.append(sec("what-is"))
@@ -87,6 +88,12 @@ def main():
     out.append("")
     out.append(sec("contributing-blurb"))
     out.append("")
+    out.append("## Maintainer\n")
+    out.append(
+        "Curated by **[@naoyanickf](https://x.com/naoyanickf)**. "
+        "Spotted a missing project or a wrong description? "
+        "[Open a PR](CONTRIBUTING.md) or ping me on X.\n"
+    )
     out.append(
         f"---\n\n_Tracking {total} projects in the LLM Wiki lineage. "
         f"Auto-refreshed weekly — last data pull {gen}. "

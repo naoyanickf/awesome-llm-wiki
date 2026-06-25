@@ -23,6 +23,7 @@ Currently tracking **81 projects** · last data pull **2026-06-25** · contribut
 - [Research](#research)
 - [How this list stays current](#how-this-list-stays-current)
 - [Contributing](#contributing)
+- [Maintainer](#maintainer)
 
 ## What is an LLM Wiki?
 
@@ -221,6 +222,10 @@ Found a project that belongs here? Two ways:
 2. **To add it now, fix a category, or include something below the bar** (a paper, a guide, a notable new repo): open a PR editing [`agent/curation.json`](agent/curation.json) or the relevant file in [`agent/sections/`](agent/sections/). See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Please **don't** edit `README.md` directly — it's generated and your change would be overwritten on the next run. Edit the sources instead.
+
+## Maintainer
+
+Curated by **[@naoyanickf](https://x.com/naoyanickf)**. Spotted a missing project or a wrong description? [Open a PR](CONTRIBUTING.md) or ping me on X.
 
 ---
 
