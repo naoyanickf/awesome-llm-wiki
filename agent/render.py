@@ -51,7 +51,8 @@ def main():
     out.append("")
     out.append("## Contents\n")
     toc = ["- [What is an LLM Wiki?](#what-is-an-llm-wiki)",
-           "- [The origin](#the-origin)"]
+           "- [The origin](#the-origin)",
+           "- [Choosing an implementation](#choosing-an-implementation)"]
     for c in CUR["categories"]:
         if by_cat.get(c["id"]):
             anchor = c["title"].lower().replace(" & ", "--").replace(" ", "-")
@@ -67,6 +68,8 @@ def main():
     out.append(sec("what-is"))
     out.append("")
     out.append(sec("origin"))
+    out.append("")
+    out.append(sec("choosing"))
     out.append("")
 
     for c in CUR["categories"]:

@@ -1,5 +1,10 @@
 # Awesome LLM Wiki [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Stars](https://img.shields.io/github/stars/naoyanickf/awesome-llm-wiki?style=flat&color=ffd700)](https://github.com/naoyanickf/awesome-llm-wiki/stargazers)
+[![Projects tracked](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnaoyanickf%2Fawesome-llm-wiki%2Fmain%2Fdata%2Fprojects.json&query=%24.total_tracked&label=projects%20tracked&color=brightgreen)](#contents)
+[![Last refresh](https://img.shields.io/github/last-commit/naoyanickf/awesome-llm-wiki?label=last%20refresh)](https://github.com/naoyanickf/awesome-llm-wiki/commits/main)
+[![License: CC0](https://img.shields.io/badge/license-CC0-blue.svg)](LICENSE)
+
 > A curated, auto-updating map of **Karpathy's LLM Wiki** — the pattern where an LLM compiles your raw sources **once** into a persistent, interlinked wiki and then *maintains it for you*, instead of re-reading everything from scratch on every query.
 
 Also called: *LLM-native knowledge base*, *self-maintaining wiki*, *AI-maintained second brain*. We use **LLM Wiki** — the name from the [original gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) — and track only that lineage.
