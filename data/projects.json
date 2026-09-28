@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-09-21",
-  "total_tracked": 93,
+  "generated_at": "2026-09-28",
+  "total_tracked": 92,
   "projects": [
     {
       "full_name": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "stars": 27086,
-      "forks": 2588,
+      "stars": 27401,
+      "forks": 2638,
       "language": "TypeScript",
-      "pushed_at": "2026-09-21",
+      "pushed_at": "2026-09-28",
       "category": "agent-skills-cli"
     },
     {
       "full_name": "nashsu/llm_wiki",
       "url": "https://github.com/nashsu/llm_wiki",
       "description": "The flagship desktop app. Knowledge graph (Louvain communities, Adamic-Adar), optional LanceDB vector search, Deep Research, human review of contradictions/duplicates, Chrome clipper, local MCP server.",
-      "stars": 19826,
-      "forks": 2236,
+      "stars": 20034,
+      "forks": 2265,
       "language": "TypeScript",
-      "pushed_at": "2026-08-25",
+      "pushed_at": "2026-09-28",
       "category": "implementations"
     },
     {
       "full_name": "AgriciDaniel/claude-obsidian",
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-      "stars": 15116,
-      "forks": 1503,
+      "stars": 15273,
+      "forks": 1518,
       "language": "Python",
       "pushed_at": "2026-09-10",
       "category": "obsidian-vault"
@@ -36,28 +36,28 @@
       "full_name": "inkeep/open-knowledge",
       "url": "https://github.com/inkeep/open-knowledge",
       "description": "Beautiful, AI-native markdown IDE and LLM wiki",
-      "stars": 4270,
-      "forks": 283,
+      "stars": 4339,
+      "forks": 288,
       "language": "TypeScript",
-      "pushed_at": "2026-09-21",
+      "pushed_at": "2026-09-28",
       "category": "agent-skills-cli"
     },
     {
       "full_name": "SamurAIGPT/llm-wiki-agent",
       "url": "https://github.com/SamurAIGPT/llm-wiki-agent",
       "description": "A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.",
-      "stars": 3547,
-      "forks": 407,
+      "stars": 3582,
+      "forks": 414,
       "language": "Python",
-      "pushed_at": "2026-09-21",
+      "pushed_at": "2026-09-28",
       "category": "obsidian-vault"
     },
     {
       "full_name": "sdyckjq-lab/llm-wiki-skill",
       "url": "https://github.com/sdyckjq-lab/llm-wiki-skill",
       "description": "A multi-platform personal-knowledge-base skill built on Karpathy's LLM Wiki methodology.",
-      "stars": 2477,
-      "forks": 292,
+      "stars": 2502,
+      "forks": 293,
       "language": "TypeScript",
       "pushed_at": "2026-07-27",
       "category": "agent-skills-cli"
@@ -66,8 +66,8 @@
       "full_name": "Astro-Han/karpathy-llm-wiki",
       "url": "https://github.com/Astro-Han/karpathy-llm-wiki",
       "description": "Agent-Skills-compatible LLM wiki that drops into Claude Code, Cursor, and Codex.",
-      "stars": 2320,
-      "forks": 276,
+      "stars": 2379,
+      "forks": 285,
       "language": "Python",
       "pushed_at": "2026-07-23",
       "category": "agent-skills-cli"
@@ -76,28 +76,28 @@
       "full_name": "atomicstrata/llm-wiki-compiler",
       "url": "https://github.com/atomicstrata/llm-wiki-compiler",
       "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.",
-      "stars": 2073,
-      "forks": 216,
+      "stars": 2145,
+      "forks": 227,
       "language": "TypeScript",
-      "pushed_at": "2026-09-18",
+      "pushed_at": "2026-09-27",
       "category": "obsidian-vault"
     },
     {
       "full_name": "skyllwt/AutoSci",
       "url": "https://github.com/skyllwt/AutoSci",
       "description": "Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code",
-      "stars": 1684,
+      "stars": 1689,
       "forks": 215,
       "language": "Python",
-      "pushed_at": "2026-09-18",
+      "pushed_at": "2026-09-28",
       "category": "agent-skills-cli"
     },
     {
       "full_name": "lucasastorian/llmwiki",
       "url": "https://github.com/lucasastorian/llmwiki",
       "description": "Open-source implementation that connects your Claude account via MCP and has the agent write the wiki on a nightly routine. Deliberately small tool surface (search/read/create/edit/append/lint).",
-      "stars": 1633,
-      "forks": 235,
+      "stars": 1649,
+      "forks": 237,
       "language": "Python",
       "pushed_at": "2026-09-19",
       "category": "agent-skills-cli"
@@ -106,8 +106,8 @@
       "full_name": "nvk/llm-wiki",
       "url": "https://github.com/nvk/llm-wiki",
       "description": "LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source ingestion, wiki compilation, querying, and artifact generation.",
-      "stars": 1319,
-      "forks": 123,
+      "stars": 1354,
+      "forks": 128,
       "language": "Python",
       "pushed_at": "2026-09-15",
       "category": "agent-skills-cli"
@@ -116,27 +116,27 @@
       "full_name": "yuezhiai/jonex",
       "url": "https://github.com/yuezhiai/jonex",
       "description": "All-in-One Multimodal Parsing Engine + Ontology-Powered, LLM Wiki-Driven AI-Ready Knowledge Engine",
-      "stars": 1139,
-      "forks": 209,
+      "stars": 1209,
+      "forks": 221,
       "language": "Python",
-      "pushed_at": "2026-09-21",
+      "pushed_at": "2026-09-22",
       "category": "agent-skills-cli"
     },
     {
       "full_name": "mateaix/mateclaw",
       "url": "https://github.com/mateaix/mateclaw",
       "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-      "stars": 1120,
-      "forks": 333,
+      "stars": 1141,
+      "forks": 336,
       "language": "Java",
-      "pushed_at": "2026-09-20",
+      "pushed_at": "2026-09-28",
       "category": "agent-skills-cli"
     },
     {
       "full_name": "kytmanov/obsidian-llm-wiki-local",
       "url": "https://github.com/kytmanov/obsidian-llm-wiki-local",
       "description": "Karpathy's LLM Wiki, 100% local with Ollama. Drop Markdown notes, the agent extracts and interlinks.",
-      "stars": 827,
+      "stars": 828,
       "forks": 127,
       "language": "Python",
       "pushed_at": "2026-05-26",
@@ -146,8 +146,8 @@
       "full_name": "NicholasSpisak/second-brain",
       "url": "https://github.com/NicholasSpisak/second-brain",
       "description": "LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern.",
-      "stars": 719,
-      "forks": 108,
+      "stars": 728,
+      "forks": 107,
       "language": "Shell",
       "pushed_at": "2026-04-07",
       "category": "obsidian-vault"
@@ -156,8 +156,8 @@
       "full_name": "jason-effi-lab/karpathy-llm-wiki-vault",
       "url": "https://github.com/jason-effi-lab/karpathy-llm-wiki-vault",
       "description": "",
-      "stars": 706,
-      "forks": 225,
+      "stars": 711,
+      "forks": 224,
       "language": null,
       "pushed_at": "2026-04-13",
       "category": "obsidian-vault"
@@ -166,17 +166,27 @@
       "full_name": "swarmclawai/swarmvault",
       "url": "https://github.com/swarmclawai/swarmvault",
       "description": "The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.",
-      "stars": 695,
-      "forks": 81,
+      "stars": 704,
+      "forks": 85,
       "language": "TypeScript",
       "pushed_at": "2026-06-30",
+      "category": "obsidian-vault"
+    },
+    {
+      "full_name": "GD4AI/obsidian-llm-wiki",
+      "url": "https://github.com/GD4AI/obsidian-llm-wiki",
+      "description": "Karpathy's LLM Wiki implementation plugin for Obsidian - turns notes and PDFs into a linked, LLM-powered knowledge base with entity pages, concept pages, graph-powered Q&A, and local-first privacy.",
+      "stars": 667,
+      "forks": 85,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-23",
       "category": "obsidian-vault"
     },
     {
       "full_name": "MatrixAges/polywise",
       "url": "https://github.com/MatrixAges/polywise",
       "description": "The open source agentic content system to make your contents alive. Self-hosted on any platform. ◑",
-      "stars": 662,
+      "stars": 661,
       "forks": 34,
       "language": "TypeScript",
       "pushed_at": "2026-06-11",
@@ -186,7 +196,7 @@
       "full_name": "lewislulu/llm-wiki-skill",
       "url": "https://github.com/lewislulu/llm-wiki-skill",
       "description": "Karpathy-style LLM knowledge base Agent Skill for OpenClaw/Codex. Experimental — will iterate over time.",
-      "stars": 658,
+      "stars": 657,
       "forks": 104,
       "language": "TypeScript",
       "pushed_at": "2026-04-16",
@@ -196,20 +206,20 @@
       "full_name": "cclank/Hermes-Wiki",
       "url": "https://github.com/cclank/Hermes-Wiki",
       "description": "An LLM Wiki built on top of the Hermes agent, with full source included.",
-      "stars": 654,
-      "forks": 73,
+      "stars": 655,
+      "forks": 72,
       "language": null,
       "pushed_at": "2026-06-21",
       "category": "implementations"
     },
     {
-      "full_name": "GD4AI/obsidian-llm-wiki",
-      "url": "https://github.com/GD4AI/obsidian-llm-wiki",
-      "description": "Karpathy's LLM Wiki implementation plugin for Obsidian - turns notes and PDFs into a linked, LLM-powered knowledge base with entity pages, concept pages, graph-powered Q&A, and local-first privacy.",
-      "stars": 643,
-      "forks": 81,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-21",
+      "full_name": "iBlinkQ/llm-wiki-obsidian-blink",
+      "url": "https://github.com/iBlinkQ/llm-wiki-obsidian-blink",
+      "description": "An Obsidian implementation of Andrej Karpathy's LLM Wiki pattern.",
+      "stars": 637,
+      "forks": 109,
+      "language": null,
+      "pushed_at": "2026-04-13",
       "category": "obsidian-vault"
     },
     {
@@ -219,44 +229,44 @@
       "stars": 632,
       "forks": 185,
       "language": "Go",
-      "pushed_at": "2026-08-20",
-      "category": "obsidian-vault"
-    },
-    {
-      "full_name": "iBlinkQ/llm-wiki-obsidian-blink",
-      "url": "https://github.com/iBlinkQ/llm-wiki-obsidian-blink",
-      "description": "An Obsidian implementation of Andrej Karpathy's LLM Wiki pattern.",
-      "stars": 630,
-      "forks": 109,
-      "language": null,
-      "pushed_at": "2026-04-13",
+      "pushed_at": "2026-09-25",
       "category": "obsidian-vault"
     },
     {
       "full_name": "zosmaai/pi-llm-wiki",
       "url": "https://github.com/zosmaai/pi-llm-wiki",
       "description": "Self-maintaining, Obsidian-compatible knowledge base for pi — turn raw sources into an interlinked wiki that compounds. Native Open Knowledge Format (OKF) v0.2.",
-      "stars": 593,
-      "forks": 45,
+      "stars": 598,
+      "forks": 46,
       "language": "TypeScript",
-      "pushed_at": "2026-09-15",
+      "pushed_at": "2026-09-26",
       "category": "obsidian-vault"
     },
     {
       "full_name": "Beever-AI/beever-atlas",
       "url": "https://github.com/Beever-AI/beever-atlas",
       "description": "Your First LLM-Wiki Conversation Knowledge Base",
-      "stars": 446,
+      "stars": 448,
       "forks": 52,
       "language": "Python",
       "pushed_at": "2026-09-10",
       "category": "agent-skills-cli"
     },
     {
+      "full_name": "zhuzhaoyun/Molio",
+      "url": "https://github.com/zhuzhaoyun/Molio",
+      "description": "A local-first personal knowledge layer for AI agents. Build evolving knowledge spaces with LLM Wiki, knowledge graphs, and agent workflows.",
+      "stars": 432,
+      "forks": 55,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-28",
+      "category": "obsidian-vault"
+    },
+    {
       "full_name": "shannhk/llm-wikid",
       "url": "https://github.com/shannhk/llm-wikid",
       "description": "Karpathy-style LLM knowledge base for Obsidian. Clone, run Claude Code, start building your second brain.",
-      "stars": 420,
+      "stars": 419,
       "forks": 40,
       "language": "Shell",
       "pushed_at": "2026-08-24",
@@ -266,8 +276,8 @@
       "full_name": "kimtth/azure-openai-llm-notes",
       "url": "https://github.com/kimtth/azure-openai-llm-notes",
       "description": "A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates.",
-      "stars": 410,
-      "forks": 59,
+      "stars": 409,
+      "forks": 60,
       "language": "Python",
       "pushed_at": "2026-08-31",
       "category": "agent-skills-cli"
@@ -276,28 +286,18 @@
       "full_name": "Pratiyush/llm-wiki",
       "url": "https://github.com/Pratiyush/llm-wiki",
       "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern — implemented and shipped.",
-      "stars": 390,
-      "forks": 53,
+      "stars": 392,
+      "forks": 56,
       "language": "Python",
       "pushed_at": "2026-06-18",
-      "category": "obsidian-vault"
-    },
-    {
-      "full_name": "zhuzhaoyun/Molio",
-      "url": "https://github.com/zhuzhaoyun/Molio",
-      "description": "A local-first personal knowledge layer for AI agents. Build evolving knowledge spaces with LLM Wiki, knowledge graphs, and agent workflows.",
-      "stars": 350,
-      "forks": 47,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-21",
       "category": "obsidian-vault"
     },
     {
       "full_name": "gatelynch/llm-knowledge-base",
       "url": "https://github.com/gatelynch/llm-knowledge-base",
       "description": "A personal KB that explicitly layers raw material, LLM-compiled knowledge, in-progress thinking, and final outputs — based on Karpathy's LLM Wiki.",
-      "stars": 331,
-      "forks": 88,
+      "stars": 332,
+      "forks": 89,
       "language": "Python",
       "pushed_at": "2026-04-06",
       "category": "implementations"
@@ -306,8 +306,8 @@
       "full_name": "ussumant/llm-wiki-compiler",
       "url": "https://github.com/ussumant/llm-wiki-compiler",
       "description": "Claude Code plugin that compiles markdown knowledge files into a topic-based wiki. Implements Karpathy's LLM Knowledge Base pattern.",
-      "stars": 322,
-      "forks": 34,
+      "stars": 325,
+      "forks": 35,
       "language": "HTML",
       "pushed_at": "2026-08-21",
       "category": "agent-skills-cli"
@@ -326,8 +326,8 @@
       "full_name": "helloianneo/obsidian-ai-second-brain",
       "url": "https://github.com/helloianneo/obsidian-ai-second-brain",
       "description": "A complete 4-phase, 12-step guide to building a personal KB with Obsidian + Claude, based on the LLM Wiki methodology.",
-      "stars": 268,
-      "forks": 28,
+      "stars": 280,
+      "forks": 29,
       "language": null,
       "pushed_at": "2026-04-13",
       "category": "obsidian-vault"
@@ -336,37 +336,37 @@
       "full_name": "Ansub/wiki-os",
       "url": "https://github.com/Ansub/wiki-os",
       "description": "UI Layer for Karpathy's LLM Wiki",
-      "stars": 265,
+      "stars": 266,
       "forks": 31,
       "language": "TypeScript",
       "pushed_at": "2026-04-17",
       "category": "implementations"
     },
     {
+      "full_name": "tonbistudio/llm-wiki",
+      "url": "https://github.com/tonbistudio/llm-wiki",
+      "description": "Open-source template for building LLM-powered knowledge bases following Karpathy's LLM Wiki pattern",
+      "stars": 260,
+      "forks": 81,
+      "language": null,
+      "pushed_at": "2026-06-19",
+      "category": "implementations"
+    },
+    {
       "full_name": "kytmanov/synto",
       "url": "https://github.com/kytmanov/synto",
       "description": "More than just Karpathy’s LLM Wiki, 100% local with Ollama. Drop Markdown notes → AI extracts concepts → your Obsidian wiki auto-links and grows. Zero sharing. Your notes stay yours.",
-      "stars": 256,
+      "stars": 258,
       "forks": 25,
       "language": "Python",
       "pushed_at": "2026-09-02",
       "category": "obsidian-vault"
     },
     {
-      "full_name": "tonbistudio/llm-wiki",
-      "url": "https://github.com/tonbistudio/llm-wiki",
-      "description": "Open-source template for building LLM-powered knowledge bases following Karpathy's LLM Wiki pattern",
-      "stars": 256,
-      "forks": 82,
-      "language": null,
-      "pushed_at": "2026-06-19",
-      "category": "implementations"
-    },
-    {
       "full_name": "pssah4/vault-operator",
       "url": "https://github.com/pssah4/vault-operator",
       "description": "Real AI agent for your vault. Coworker, Copilot & thinking partner, that maintains your memory & knowledge, adapts to your workflows, uses plugins, skills & tools with full safety controls. BYOK & MCP.",
-      "stars": 253,
+      "stars": 254,
       "forks": 30,
       "language": "TypeScript",
       "pushed_at": "2026-09-15",
@@ -376,11 +376,21 @@
       "full_name": "luotwo/llm-wiki",
       "url": "https://github.com/luotwo/llm-wiki",
       "description": "Build a continuously-accumulating personal knowledge base with an LLM; ships a Claude Code Skill.",
-      "stars": 219,
+      "stars": 222,
       "forks": 41,
       "language": null,
       "pushed_at": "2026-06-26",
       "category": "agent-skills-cli"
+    },
+    {
+      "full_name": "balukosuri/llm-wiki-karpathy",
+      "url": "https://github.com/balukosuri/llm-wiki-karpathy",
+      "description": "",
+      "stars": 214,
+      "forks": 85,
+      "language": null,
+      "pushed_at": "2026-04-07",
+      "category": "implementations"
     },
     {
       "full_name": "mduongvandinh/llm-wiki",
@@ -393,44 +403,24 @@
       "category": "obsidian-vault"
     },
     {
-      "full_name": "balukosuri/llm-wiki-karpathy",
-      "url": "https://github.com/balukosuri/llm-wiki-karpathy",
-      "description": "",
-      "stars": 211,
-      "forks": 86,
-      "language": null,
-      "pushed_at": "2026-04-07",
-      "category": "implementations"
-    },
-    {
       "full_name": "chiimagnus/SyncNos",
       "url": "https://github.com/chiimagnus/SyncNos",
       "description": "A web clipper for saving AI chats, web articles, and video transcripts to Notion, Obsidian, Feishu, and GitHub, with CLI automation.",
-      "stars": 210,
-      "forks": 16,
+      "stars": 208,
+      "forks": 15,
       "language": "TypeScript",
-      "pushed_at": "2026-09-20",
+      "pushed_at": "2026-09-26",
       "category": "obsidian-vault"
     },
     {
       "full_name": "kfchou/wiki-skills",
       "url": "https://github.com/kfchou/wiki-skills",
       "description": "LLM-maintained personal wiki skills for Claude Code — implements Karpathy's LLM Wiki pattern",
-      "stars": 183,
+      "stars": 185,
       "forks": 29,
       "language": "Python",
       "pushed_at": "2026-07-03",
       "category": "agent-skills-cli"
-    },
-    {
-      "full_name": "domleca/llm-wiki",
-      "url": "https://github.com/domleca/llm-wiki",
-      "description": "",
-      "stars": 177,
-      "forks": 13,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-15",
-      "category": "implementations"
     },
     {
       "full_name": "IssacW228/student-llm-wiki",
@@ -443,13 +433,23 @@
       "category": "obsidian-vault"
     },
     {
+      "full_name": "domleca/llm-wiki",
+      "url": "https://github.com/domleca/llm-wiki",
+      "description": "",
+      "stars": 176,
+      "forks": 13,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-15",
+      "category": "implementations"
+    },
+    {
       "full_name": "alfadur7/llm-wiki-newsroom",
       "url": "https://github.com/alfadur7/llm-wiki-newsroom",
       "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into a cross-linked markdown wiki. A \"reground\" loop pulls published pages back in before they go stale — writer ≠ reviewer, local-first, a structured alternative to RAG.",
       "stars": 166,
       "forks": 27,
       "language": "Python",
-      "pushed_at": "2026-09-18",
+      "pushed_at": "2026-09-27",
       "category": "obsidian-vault"
     },
     {
@@ -466,7 +466,7 @@
       "full_name": "selmakcby/knowledge-pipeline",
       "url": "https://github.com/selmakcby/knowledge-pipeline",
       "description": "A terminal-style pipeline + LLM-Wiki skill that turns raw chats into a structured knowledge base.",
-      "stars": 157,
+      "stars": 158,
       "forks": 17,
       "language": "HTML",
       "pushed_at": "2026-09-04",
@@ -476,7 +476,7 @@
       "full_name": "liangdabiao/llm-wiki",
       "url": "https://github.com/liangdabiao/llm-wiki",
       "description": "Continuously build and maintain a personal KB with AI; ingests web, Twitter, WeChat, Zhihu, YouTube, PDF and local files into a structured wiki, published as a static site via Quartz.",
-      "stars": 154,
+      "stars": 156,
       "forks": 22,
       "language": "TypeScript",
       "pushed_at": "2026-04-29",
@@ -487,7 +487,7 @@
       "url": "https://github.com/cablate/llm-atomic-wiki",
       "description": "An extension of Karpathy's LLM Wiki pattern: atom layer, topic-branches, two-layer Lint. Distilled from running the pattern end-to-end.",
       "stars": 149,
-      "forks": 26,
+      "forks": 27,
       "language": "Shell",
       "pushed_at": "2026-04-20",
       "category": "implementations"
@@ -496,7 +496,7 @@
       "full_name": "MehmetGoekce/llm-wiki",
       "url": "https://github.com/MehmetGoekce/llm-wiki",
       "description": "Build Karpathy's LLM Wiki with Claude Code. L1/L2 cache architecture. Logseq + Obsidian support.",
-      "stars": 146,
+      "stars": 148,
       "forks": 23,
       "language": "Shell",
       "pushed_at": "2026-09-16",
@@ -516,11 +516,21 @@
       "full_name": "ctxr-dev/llm-wiki-memory",
       "url": "https://github.com/ctxr-dev/llm-wiki-memory",
       "description": "Local, git-versioned memory for AI coding agents. No RAG, no Docker, no external service. Capture, compile, recall over a local LLM wiki with on-device embeddings and an MCP server.",
-      "stars": 131,
+      "stars": 130,
       "forks": 3,
       "language": "JavaScript",
       "pushed_at": "2026-09-09",
       "category": "agent-skills-cli"
+    },
+    {
+      "full_name": "coleam00/cole-medin-knowledge-base",
+      "url": "https://github.com/coleam00/cole-medin-knowledge-base",
+      "description": "An OKF (Open Knowledge Format) knowledge base + Karpathy-style LLM wiki synthesized from Cole Medin's entire long-form YouTube catalog. Drop it next to any project for agent-ready, cited reference. No database, no embeddings.",
+      "stars": 130,
+      "forks": 41,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-28",
+      "category": "knowledge-graph"
     },
     {
       "full_name": "songzhuozhu/obsidian-llm-wiki",
@@ -533,20 +543,10 @@
       "category": "obsidian-vault"
     },
     {
-      "full_name": "coleam00/cole-medin-knowledge-base",
-      "url": "https://github.com/coleam00/cole-medin-knowledge-base",
-      "description": "An OKF (Open Knowledge Format) knowledge base + Karpathy-style LLM wiki synthesized from Cole Medin's entire long-form YouTube catalog. Drop it next to any project for agent-ready, cited reference. No database, no embeddings.",
-      "stars": 123,
-      "forks": 40,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-28",
-      "category": "knowledge-graph"
-    },
-    {
       "full_name": "frankchu91/mindbase-llm-wiki",
       "url": "https://github.com/frankchu91/mindbase-llm-wiki",
       "description": "Karpathy's LLM Wiki idea as a product — an AI that builds and maintains a markdown wiki from your notes and sources. MCP server + web UI, runs on free local models (Ollama), no API key needed. MIT.",
-      "stars": 117,
+      "stars": 122,
       "forks": 17,
       "language": "TypeScript",
       "pushed_at": "2026-09-14",
@@ -560,6 +560,16 @@
       "forks": 10,
       "language": "TypeScript",
       "pushed_at": "2026-09-14",
+      "category": "obsidian-vault"
+    },
+    {
+      "full_name": "praneybehl/llm-wiki-plugin",
+      "url": "https://github.com/praneybehl/llm-wiki-plugin",
+      "description": "Andrej Karpathy's LLM Wiki pattern as a skill & Claude Code plugin — turn accumulated sources into a self-maintaining, scalable markdown knowledge base.",
+      "stars": 113,
+      "forks": 17,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-13",
       "category": "obsidian-vault"
     },
     {
@@ -583,14 +593,14 @@
       "category": "knowledge-graph"
     },
     {
-      "full_name": "praneybehl/llm-wiki-plugin",
-      "url": "https://github.com/praneybehl/llm-wiki-plugin",
-      "description": "Andrej Karpathy's LLM Wiki pattern as a skill & Claude Code plugin — turn accumulated sources into a self-maintaining, scalable markdown knowledge base.",
+      "full_name": "Emmimal/wiki-compiler",
+      "url": "https://github.com/Emmimal/wiki-compiler",
+      "description": "A pure-Python compiler that turns raw markdown notes into a linked, linted wiki. Zero dependencies, zero LLM calls, fully deterministic.",
       "stars": 108,
-      "forks": 17,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-13",
-      "category": "obsidian-vault"
+      "forks": 13,
+      "language": "Python",
+      "pushed_at": "2026-09-14",
+      "category": "implementations"
     },
     {
       "full_name": "abubakarsiddik31/axiom-wiki",
@@ -599,17 +609,7 @@
       "stars": 108,
       "forks": 7,
       "language": "TypeScript",
-      "pushed_at": "2026-08-27",
-      "category": "implementations"
-    },
-    {
-      "full_name": "Emmimal/wiki-compiler",
-      "url": "https://github.com/Emmimal/wiki-compiler",
-      "description": "A pure-Python compiler that turns raw markdown notes into a linked, linted wiki. Zero dependencies, zero LLM calls, fully deterministic.",
-      "stars": 107,
-      "forks": 13,
-      "language": "Python",
-      "pushed_at": "2026-09-14",
+      "pushed_at": "2026-09-21",
       "category": "implementations"
     },
     {
@@ -617,19 +617,19 @@
       "url": "https://github.com/toolboxmd/karpathy-wiki",
       "description": "Karpathy Wiki - Claude Code skills for building persistent, compounding knowledge bases. Based on Andrej Karpathy's LLM Wiki pattern.",
       "stars": 103,
-      "forks": 25,
+      "forks": 26,
       "language": "Shell",
-      "pushed_at": "2026-08-28",
+      "pushed_at": "2026-09-23",
       "category": "agent-skills-cli"
     },
     {
-      "full_name": "Albertchamberlain/Awesome-OKF",
-      "url": "https://github.com/Albertchamberlain/Awesome-OKF",
-      "description": "OKF (Open Knowledge Format) — curated catalog of tools, plugins, skills, proposals, and docs for agent-friendly knowledge. YAML-driven, agent-searchable, MCP-ready.",
+      "full_name": "NulightJens/ai-second-brain-skills",
+      "url": "https://github.com/NulightJens/ai-second-brain-skills",
+      "description": "Two Claude Code skills for building a Karpathy-style LLM wiki — a compounding AI second brain. Install: git clone https://github.com/NulightJens/ai-second-brain-skills.git && ln -s $(pwd)/ai-second-brain-skills/llm-wiki-setup ~/.claude/skills/llm-wiki-setup && ln -s $(pwd)/ai-second-brain-skills/wiki-self-heal ~/.claude/skills/wiki-self-heal",
       "stars": 100,
-      "forks": 3,
-      "language": "Python",
-      "pushed_at": "2026-09-15",
+      "forks": 15,
+      "language": null,
+      "pushed_at": "2026-04-12",
       "category": "agent-skills-cli"
     },
     {
@@ -639,17 +639,17 @@
       "stars": 98,
       "forks": 18,
       "language": "Python",
-      "pushed_at": "2026-09-21",
+      "pushed_at": "2026-09-28",
       "category": "agent-skills-cli"
     },
     {
-      "full_name": "NulightJens/ai-second-brain-skills",
-      "url": "https://github.com/NulightJens/ai-second-brain-skills",
-      "description": "Two Claude Code skills for building a Karpathy-style LLM wiki — a compounding AI second brain. Install: git clone https://github.com/NulightJens/ai-second-brain-skills.git && ln -s $(pwd)/ai-second-brain-skills/llm-wiki-setup ~/.claude/skills/llm-wiki-setup && ln -s $(pwd)/ai-second-brain-skills/wiki-self-heal ~/.claude/skills/wiki-self-heal",
-      "stars": 98,
-      "forks": 15,
-      "language": null,
-      "pushed_at": "2026-04-12",
+      "full_name": "Albertchamberlain/Awesome-OKF",
+      "url": "https://github.com/Albertchamberlain/Awesome-OKF",
+      "description": "OKF (Open Knowledge Format) — curated catalog of tools, plugins, skills, proposals, and docs for agent-friendly knowledge. YAML-driven, agent-searchable, MCP-ready.",
+      "stars": 97,
+      "forks": 3,
+      "language": "Python",
+      "pushed_at": "2026-09-15",
       "category": "agent-skills-cli"
     },
     {
@@ -663,14 +663,14 @@
       "category": "implementations"
     },
     {
-      "full_name": "HKUST-KnowComp/DeepRefine-Skill",
-      "url": "https://github.com/HKUST-KnowComp/DeepRefine-Skill",
-      "description": "An agent skill to evolve the quality of LLM-Wiki (Graphify) at test time.",
-      "stars": 92,
-      "forks": 9,
+      "full_name": "HurricaHjz/second-yourself",
+      "url": "https://github.com/HurricaHjz/second-yourself",
+      "description": "Second yourself. An AI that remembers you: an operating system for agents (Claude Code) on a self-maintaining, cited Obsidian wiki that is its long-term memory, after Karpathy's LLM-wiki pattern. Research assistant today; a shared brain for multi-agent work. Pre-1.0, in active development.",
+      "stars": 94,
+      "forks": 0,
       "language": "Python",
-      "pushed_at": "2026-08-23",
-      "category": "agent-skills-cli"
+      "pushed_at": "2026-09-09",
+      "category": "obsidian-vault"
     },
     {
       "full_name": "ScrapingArt/Karpathy-LLM-Wiki-Stack",
@@ -679,15 +679,25 @@
       "stars": 92,
       "forks": 14,
       "language": null,
-      "pushed_at": "2026-09-08",
+      "pushed_at": "2026-09-27",
       "category": "obsidian-vault"
+    },
+    {
+      "full_name": "HKUST-KnowComp/DeepRefine-Skill",
+      "url": "https://github.com/HKUST-KnowComp/DeepRefine-Skill",
+      "description": "An agent skill to evolve the quality of LLM-Wiki (Graphify) at test time.",
+      "stars": 91,
+      "forks": 9,
+      "language": "Python",
+      "pushed_at": "2026-08-23",
+      "category": "agent-skills-cli"
     },
     {
       "full_name": "johnfkoo951/cmds-llm-wiki",
       "url": "https://github.com/johnfkoo951/cmds-llm-wiki",
       "description": "LLM Wiki template — Karpathy 3-layer pattern + Gold In Gold Out purpose gate + dual Claude Code·Codex harness (11 commands, 2 hooks, 18 web clipper templates)",
-      "stars": 88,
-      "forks": 33,
+      "stars": 90,
+      "forks": 34,
       "language": "Python",
       "pushed_at": "2026-09-21",
       "category": "obsidian-vault"
@@ -696,10 +706,10 @@
       "full_name": "zby/commonplace",
       "url": "https://github.com/zby/commonplace",
       "description": "The theory of LLM wikis, running as one. A framework for agent-operated knowledge: typed, linked, review-gated markdown your agents execute.",
-      "stars": 88,
+      "stars": 89,
       "forks": 11,
       "language": "Python",
-      "pushed_at": "2026-09-21",
+      "pushed_at": "2026-09-26",
       "category": "agent-skills-cli"
     },
     {
@@ -726,11 +736,21 @@
       "full_name": "tpierrain/kenjaku",
       "url": "https://github.com/tpierrain/kenjaku",
       "description": "Kenjaku is a Karpathy-style LLM wiki, reinforced where it counts with battle-tested software (including a local RAG).",
-      "stars": 84,
+      "stars": 87,
       "forks": 4,
       "language": "JavaScript",
-      "pushed_at": "2026-09-15",
+      "pushed_at": "2026-09-27",
       "category": "local-first"
+    },
+    {
+      "full_name": "vitaecontext/vitaecontext",
+      "url": "https://github.com/vitaecontext/vitaecontext",
+      "description": "AI agent context layer for career-related tasks.",
+      "stars": 83,
+      "forks": 10,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-12",
+      "category": "agent-skills-cli"
     },
     {
       "full_name": "fivetaku/llm-wiki",
@@ -743,33 +763,43 @@
       "category": "agent-skills-cli"
     },
     {
-      "full_name": "vitaecontext/vitaecontext",
-      "url": "https://github.com/vitaecontext/vitaecontext",
-      "description": "AI agent context layer for career-related tasks.",
-      "stars": 81,
-      "forks": 10,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-12",
+      "full_name": "tuirk/Kompl",
+      "url": "https://github.com/tuirk/Kompl",
+      "description": "A compounding LLM-wiki, best fit as a personal second brain that organizes and updates itself as it grows, zero upkeep.",
+      "stars": 79,
+      "forks": 7,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-28",
       "category": "agent-skills-cli"
+    },
+    {
+      "full_name": "7xuanlu/wenlan",
+      "url": "https://github.com/7xuanlu/wenlan",
+      "description": "Wenlan is a knowledge base for the AI-native age. Your AI agents capture what they learn, Wenlan keeps it current and distills it into source-cited wiki pages you can trust",
+      "stars": 79,
+      "forks": 8,
+      "language": "Rust",
+      "pushed_at": "2026-09-28",
+      "category": "agent-skills-cli"
+    },
+    {
+      "full_name": "gavishap/omnia-vault",
+      "url": "https://github.com/gavishap/omnia-vault",
+      "description": "Omnia Vault - the all-in-one project brain: an Obsidian LLM wiki, Graphify code graphs, a living plan that triages new videos against itself, and a Claude Code ⇄ Codex relay. Everything your project knows, in one clonable vault.",
+      "stars": 77,
+      "forks": 6,
+      "language": "Python",
+      "pushed_at": "2026-08-28",
+      "category": "obsidian-vault"
     },
     {
       "full_name": "ndjordjevic/pin-llm-wiki",
       "url": "https://github.com/ndjordjevic/pin-llm-wiki",
       "description": "Skill for Claude, Cursor & Copilot that automates the Karpathy LLM Wiki workflow: ingest web, GitHub, and YouTube URLs into a well-structured, citable, cross-referenced knowledge base with automatic linting.",
-      "stars": 77,
-      "forks": 15,
+      "stars": 76,
+      "forks": 14,
       "language": "Python",
       "pushed_at": "2026-07-03",
-      "category": "agent-skills-cli"
-    },
-    {
-      "full_name": "tuirk/Kompl",
-      "url": "https://github.com/tuirk/Kompl",
-      "description": "A compounding LLM-wiki, best fit as a personal second brain that organizes and updates itself as it grows, zero upkeep.",
-      "stars": 77,
-      "forks": 7,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-21",
       "category": "agent-skills-cli"
     },
     {
@@ -779,7 +809,7 @@
       "stars": 75,
       "forks": 7,
       "language": null,
-      "pushed_at": "2026-09-17",
+      "pushed_at": "2026-09-23",
       "category": "obsidian-vault"
     },
     {
@@ -803,30 +833,10 @@
       "category": "obsidian-vault"
     },
     {
-      "full_name": "7xuanlu/wenlan",
-      "url": "https://github.com/7xuanlu/wenlan",
-      "description": "Wenlan is a knowledge base for the AI-native age. Your AI agents capture what they learn, Wenlan keeps it current and distills it into source-cited wiki pages you can trust",
-      "stars": 72,
-      "forks": 7,
-      "language": "Rust",
-      "pushed_at": "2026-09-20",
-      "category": "agent-skills-cli"
-    },
-    {
-      "full_name": "gavishap/omnia-vault",
-      "url": "https://github.com/gavishap/omnia-vault",
-      "description": "Omnia Vault - the all-in-one project brain: an Obsidian LLM wiki, Graphify code graphs, a living plan that triages new videos against itself, and a Claude Code ⇄ Codex relay. Everything your project knows, in one clonable vault.",
-      "stars": 69,
-      "forks": 6,
-      "language": "Python",
-      "pushed_at": "2026-08-28",
-      "category": "obsidian-vault"
-    },
-    {
       "full_name": "Benboerba620/karpathy-claude-wiki",
       "url": "https://github.com/Benboerba620/karpathy-claude-wiki",
       "description": "Karpathy-style personal wiki for LLMs - markdown + frontmatter, no vector DB, no RAG. Built for Claude Code, works with any file-editing AI agent.",
-      "stars": 68,
+      "stars": 69,
       "forks": 11,
       "language": "Python",
       "pushed_at": "2026-04-29",
@@ -836,8 +846,8 @@
       "full_name": "vanillaflava/llm-wiki-skills",
       "url": "https://github.com/vanillaflava/llm-wiki-skills",
       "description": "Turn your markdown vault into a compounding knowledge wiki (Karpathy inspired). Six agent skills - knowledge grows with every conversation. Works with Obsidian, Logseq, etc. or just folders on your local drive. Compiled memory for your LLM sessions. Crossplatform. GUI install on Claude Desktop, no terminal, no code.",
-      "stars": 67,
-      "forks": 9,
+      "stars": 68,
+      "forks": 8,
       "language": null,
       "pushed_at": "2026-07-11",
       "category": "obsidian-vault"
@@ -853,6 +863,26 @@
       "category": "implementations"
     },
     {
+      "full_name": "microsoft/llmwiki",
+      "url": "https://github.com/microsoft/llmwiki",
+      "description": "VS Code extension for a self-maintaining personal wiki — the LLM summarizes, cross-references, and files every source for you",
+      "stars": 65,
+      "forks": 14,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-13",
+      "category": "guides-refs"
+    },
+    {
+      "full_name": "zeronezer/bidcraft",
+      "url": "https://github.com/zeronezer/bidcraft",
+      "description": "标书匠 BidCraft · 对话式标书编制系统：AI 智能编制技术标，支持招标文件解析、标段选择、标书编写、知识库提炼与学习对话式改稿。LLM-Wiki 路线，基于LangGraph实现。Open-source AI agent for construction tender & bid documents.",
+      "stars": 62,
+      "forks": 8,
+      "language": "Python",
+      "pushed_at": "2026-09-17",
+      "category": "knowledge-graph"
+    },
+    {
       "full_name": "iamsashank09/llm-wiki-kit",
       "url": "https://github.com/iamsashank09/llm-wiki-kit",
       "description": "Stop re-explaining your research to your AI agent. Persistent, LLM-maintained wikis that compound over time. Drop PDFs, URLs, YouTube - your agent remembers forever. Based on Karpathy's LLM Wiki pattern.",
@@ -863,73 +893,33 @@
       "category": "agent-skills-cli"
     },
     {
+      "full_name": "MetamusicX/zissa-wiki",
+      "url": "https://github.com/MetamusicX/zissa-wiki",
+      "description": "Zissa Wiki — an LLM-maintained research knowledge base in plain markdown, maintained by any AI agent (Claude, Codex, Gemini, DeepSeek, Kimi, Grok, Mistral or any chat app). Implements Karpathy's LLM Wiki pattern; checks every quote against its source.",
+      "stars": 58,
+      "forks": 9,
+      "language": "Python",
+      "pushed_at": "2026-09-26",
+      "category": "obsidian-vault"
+    },
+    {
       "full_name": "VT777/pageindex-chat-studio",
       "url": "https://github.com/VT777/pageindex-chat-studio",
       "description": "Extends pageIndex into an AI document workspace with multi-format parsing, OCR, visual TOC, custom models, citations, and agentic QA.",
-      "stars": 58,
-      "forks": 2,
+      "stars": 57,
+      "forks": 3,
       "language": "Python",
       "pushed_at": "2026-06-30",
       "category": "implementations"
     },
     {
-      "full_name": "ChavesLiu/second-brain-skill",
-      "url": "https://github.com/ChavesLiu/second-brain-skill",
-      "description": "Plug your second brain into Claude/ChatGPT. Inspired by the Karpathy Wiki approach, this project packages personal knowledge, project context, and operating conventions into a Skill that helps AI act like a context-aware assistant. 把你的第二大脑接入 Claude/ChatGPT。 这个项目参考 Karpathy Wiki 的思路，将个人知识、项目经验和操作规范封装成 Skill，让 AI 成为真正理解你上下文的助手。",
-      "stars": 58,
-      "forks": 10,
-      "language": "Python",
-      "pushed_at": "2026-04-15",
-      "category": "agent-skills-cli"
-    },
-    {
-      "full_name": "MetamusicX/zissa-wiki",
-      "url": "https://github.com/MetamusicX/zissa-wiki",
-      "description": "Zissa Wiki — an LLM-maintained research knowledge base in plain markdown, operated via Claude Code. Implements Karpathy's LLM Wiki pattern; ships a deterministic wiki-lint tool.",
-      "stars": 57,
-      "forks": 9,
-      "language": "Python",
-      "pushed_at": "2026-07-18",
-      "category": "agent-skills-cli"
-    },
-    {
-      "full_name": "JanYork/llm-wiki-cli",
-      "url": "https://github.com/JanYork/llm-wiki-cli",
-      "description": "Agent-driven proactive memory CLI for AI agents — autonomously recall, maintain, and evolve persistent, source-grounded knowledge across sessions.",
-      "stars": 56,
-      "forks": 6,
-      "language": "Rust",
-      "pushed_at": "2026-09-13",
-      "category": "agent-skills-cli"
-    },
-    {
-      "full_name": "microsoft/llmwiki",
-      "url": "https://github.com/microsoft/llmwiki",
-      "description": "VS Code extension for a self-maintaining personal wiki — the LLM summarizes, cross-references, and files every source for you",
-      "stars": 56,
-      "forks": 11,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-13",
-      "category": "guides-refs"
-    },
-    {
       "full_name": "ddsyasas/llm-wiki",
       "url": "https://github.com/ddsyasas/llm-wiki",
       "description": "Open source local-first knowledge base maintained by an LLM agent. Implements Andrej Karpathy's LLM Wiki pattern.",
-      "stars": 51,
-      "forks": 17,
+      "stars": 56,
+      "forks": 18,
       "language": "TypeScript",
       "pushed_at": "2026-06-04",
-      "category": "obsidian-vault"
-    },
-    {
-      "full_name": "HurricaHjz/second-yourself",
-      "url": "https://github.com/HurricaHjz/second-yourself",
-      "description": "Second yourself. An AI that remembers you: an operating system for agents (Claude Code) on a self-maintaining, cited Obsidian wiki that is its long-term memory, after Karpathy's LLM-wiki pattern. Research assistant today; a shared brain for multi-agent work. Pre-1.0, in active development.",
-      "stars": 27,
-      "forks": 0,
-      "language": "Python",
-      "pushed_at": "2026-09-09",
       "category": "obsidian-vault"
     }
   ]
